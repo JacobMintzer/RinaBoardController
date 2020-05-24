@@ -1,0 +1,14 @@
+[
+  {
+    "name": "smil",
+    "coords": [true,true,false],
+    "p_rows":18,
+    "p_cols": 32
+  },
+  {
+    "name": "smil2",
+    "coords": [false,true,false],
+    "p_rows": 18,
+    "p_cols": 32
+  }
+]
